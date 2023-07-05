@@ -24,7 +24,18 @@
 .nav_left > img{
     width: 30px;
     margin-right: 10px;
+    cursor: pointer;
 }
+
+.nav_left > i{
+    color: red;
+    /* border: 1px solid black; */
+    position: relative;
+    left: 30px;
+    font-size: 15px;
+    
+}
+
 
 .nav_left > input{
     padding: 9px;
@@ -56,4 +67,7 @@
 
 
 }
+
+
+
 
